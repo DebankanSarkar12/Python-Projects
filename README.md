@@ -10,5 +10,5 @@ Instructions on how to use them in your own application are linked below.
 | ------ | ------ |
 | Zira Virtual Assistant  | [plugins/dropbox/README.md][PlDb] |
 | Spiral Fun | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Number Guessing Game |https://github.com/DebankanSarkar12/Python-Projects/edit/main/README.md  |
 
