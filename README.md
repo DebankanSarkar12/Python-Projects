@@ -8,7 +8,7 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
-| Zira Virtual Assistant  | [plugins/dropbox/README.md][PlDb] |
-| Spiral Fun | [plugins/github/README.md][PlGh] |
-| Number Guessing Game |https://github.com/DebankanSarkar12/Python-Projects/edit/main/README.md  |
+| Zira Virtual Assistant  | https://github.com/DebankanSarkar12/Python-Projects/blob/main/Zira_virtual%20assistant.py |
+| Spiral Fun | https://github.com/DebankanSarkar12/Python-Projects/blob/main/SpiralFun.py |
+| Number Guessing Game | https://github.com/DebankanSarkar12/Python-Projects/blob/main/Number%20Guessing%20Game.py |
 
